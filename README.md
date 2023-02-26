@@ -1,24 +1,23 @@
-# todo-list
+# SideProject
 
-## Project setup
+## TodoList
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+使用 Vue.js 2 搭配 Firebase 來建立一個代辦清單
 ```
 
-### Compiles and minifies for production
+### 資料夾說明
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+assets: js / style
+component: 畫面元件
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用技術
+```
+Vue.js 2
+Firebase
+```
+
+### Demo
+```
+https://iian0910.github.io/TodoList/
+```
